@@ -1,0 +1,10 @@
+segmento,total_clientes,clientes_risco,validade,pct_risco
+Dormentes,829,108,30d,13.0
+Ocasionais,1617,321,30d,19.9
+Recorrentes,1279,656,30d,51.3
+Dormentes,829,89,45d,10.7
+Ocasionais,1617,326,45d,20.2
+Recorrentes,1279,639,45d,50.0
+Dormentes,829,54,60d,6.5
+Ocasionais,1617,231,60d,14.3
+Recorrentes,1279,446,60d,34.9
