@@ -1,7 +1,0 @@
-segmento,salto,delta_expiracao_pp,delta_resgate_pp,delta_custo_abs,delta_custo_pct,eficiencia,clientes_expirando_de,clientes_expirando_para,delta_clientes
-Recorrentes,30d → 45d,-11.5,8.1,151388.7,24.1,47.72,1249,1201,-48
-Recorrentes,45d → 60d,-6.8,5.0,91983.42,11.8,57.63,1201,1118,-83
-Ocasionais,30d → 45d,-9.1,6.1,45027.69,39.0,23.33,1541,1470,-71
-Ocasionais,45d → 60d,-6.6,4.7,34340.92,21.4,30.84,1470,1408,-62
-Dormentes,30d → 45d,-5.4,3.6,8785.58,30.6,17.65,754,709,-45
-Dormentes,45d → 60d,-4.3,2.9,7233.06,19.3,22.28,709,661,-48
